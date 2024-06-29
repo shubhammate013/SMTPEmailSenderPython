@@ -5,7 +5,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/DevOgabek/SMTPEmailSenderPython.git
+    git clone https://github.com/shubhammate013/SMTPEmailSenderPython.git
     ```
 
 2. Navigate to the project directory:
